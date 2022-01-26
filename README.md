@@ -1,2 +1,2 @@
 # implementation
-Home Management System
+Hospital Management System
